@@ -1,4 +1,3 @@
-[Forwarded from ReconRex]
 FROM phusion/baseimage:master
 
 # Do not change the Docker container. This bionic container eats less juice than Ubuntu 20.04
