@@ -2,7 +2,7 @@
 cd /home/shell-bot
 cat > config.json << EOF
 {
-    "authToken": "1527929353:AAERlylvfnoUCKttftF9mlWJqL4gRW7F8bw",
+    "authToken": "1600151448:AAHlW2UlWVrUUtX-pbAN0SMM3tQiAnrn8Ao",
     "owner": 1073166978
 }
 EOF
