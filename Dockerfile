@@ -35,7 +35,7 @@ COPY /files /home/files
 
 RUN wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.tgz
 RUN tar xvf ngrok-stable-linux-amd64.tgz -C /usr/local/bin
-RUN ngrok authtoken 1nNriaJdUZjRleSFuSr7V9yBSB4_6iB6DTKWiWGRGsShZQN7F
+RUN ngrok authtoken 1nYBQKcLiACXEzEhvxAnBaOREYg_VWT72GFdqzCkxbvbPJMH
 
 # This will copy your rclone config.
 RUN cp /home/files/rclone.conf /root/.config/rclone/
