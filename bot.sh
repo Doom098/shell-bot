@@ -9,7 +9,7 @@ EOF
 echo "Created config for Shell bot"
 apt-get update
 
-rclone mount rex: /home/dl --allow-non-empty & ls
+rclone mount torrr: /home/dl --allow-non-empty & ls
 
 echo "Created mount for Shell bot"
 apt-get update
