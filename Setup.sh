@@ -1,4 +1,3 @@
-[Forwarded from ReconRex]
 echo "Performing additional setup 1"
 mkdir -p /root/.local/share/qBittorrent
 add-apt-repository ppa:qbittorrent-team/qbittorrent-stable
